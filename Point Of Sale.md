@@ -1,5 +1,5 @@
 # Odoo-POS
-Here’s a detailed markdown breakdown of the Odoo Point of Sale (POS) module, its structure, usage, and compatibility with devices:
+
 
 ```markdown
 # Odoo Point of Sale (POS) Module
